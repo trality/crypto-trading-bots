@@ -6,7 +6,7 @@ But we’re changing that.
 
 At Trality, we are bridging the gap between professional and private trading by making it possible for everyone to access the technology that powers automated trading bots, helping you to make smarter, unbiased and fully automatic trades.
 
-<h2>Creating the best crypto trading bots with Trality</h2>
+<h2>Create the best crypto trading bots with Trality</h2>
 
 Let's take a closer look at Trality’s revolutionary bot creation tools and find out how easy it is to code, backtest and deploy your own algorithmic trading bots for live-trading on your favourite crypto exchanges.
 
@@ -45,15 +45,15 @@ It only takes a few seconds to run a backtest, saving you precious time that you
 
 Once you’re satisfied with the results, deploy your bot for live-trading or paper-trading on your preferred exchange. Simply connect your exchange account with the API keys and you’re all set. Your bot will immediately start scanning live data, generate signals and execute trades based on your pre-defined rules.
 
-**How do crypto trading bots actually work?**
+<h2>How do crypto trading bots actually work?</h2>
 
 In order to trade on an exchange, a trading bot needs access to your exchange account, which you grant by using API keys (Application Program Interface). When the bot is connected with your exchange with an API key, it can trade on your behalf based on your instructions. When authorization has been revoked, the bot can no longer access your account and trading ceases. You are in full control.
 
-Signal generator > risk allocation > execution
+**Signal generator > risk allocation > execution**
 
 The actual process behind trading bots occurs in three main stages. The first stage basically automates the type of work that the trader does by introducing data into a signal generator in order to look for trading opportunities or analyze price trends and patterns. The second stage involves risk allocation in which the bot spreads out the risk based on the trader’s preferences. And the final stage is the execution during which the signals are converted into requests for API keys that the exchange uses to buy and/or sell.
 
-**The many advantages of crypto trading bots**
+<h2>The many advantages of crypto trading bots</h2>
 
 When it comes to cryptocurrency trading, there are no opening or closing bells. Crypto markets never sleep, which means that any downtime that we take to eat, sleep, walk the dog or head to the shops translates into missed opportunities.
 
@@ -66,7 +66,7 @@ So what are some of the advantages of using trading bots? We can think of a hand
 ✔️ Risk diversification
 ✔️ Consistent trading discipline
 
-**Best practices for creating successful trading bots**
+<h2>Best practices for creating successful trading bots</h2>
 
 Practice makes perfect and it’s no different with algorithmic trading. Before going live with your bot, you’ll want to become completely comfortable with the ins and outs of algorithmic trading, which is why you should backtest and paper trade in order to simulate trades before engaging in actual ones. And be sure to read through [Trality Docs](https://docs.trality.com), an important part of our website that contains a wealth of informative material written in plain English.
 
@@ -74,15 +74,15 @@ But there is also the matter of best practices. It’s one thing to create a tra
 
 Consider some of the following points as best practices when thinking about, developing and implementing a trading bot (or bots).
 
-Backtest, backtest, and backtest some more
+**Backtest, backtest, and backtest some more**
 
 Would you buy a car without taking it for a test drive or scanning its computer to look for trouble codes? Think of “backtesting” as basically like taking your crypto trading bot for a “test drive.” In fact, you should take it for multiple test drives under different conditions to ensure that it performs safely and predictably before driving it through the crowded cryptocurrency marketplace. Only when you’ve backtested it repeatedly using historical data will you have a more accurate picture of how well (or not so well) your trading strategy is expected to perform in the future.
 
-Past Performance Is No Guarantee of Future Results 
+**Past Performance Is No Guarantee of Future Results**
 
 Perfect, you’ve done your due diligence by treating your trading bot to a battery of backtesting and it has performed well consistently. You’re not out of the woods yet. Once you take it live, you should continue to pay close attention to how it performs. It’s a rare thing that works perfectly straight out of the box. If we continue with our car analogy, upgraded engines or suspension systems always need a fair bit of additional fine tuning in order to achieve optimal results safely and reliably. The same principle applies to trading bots.
 
-Diversify
+**Diversify**
 
 Variety may be the spice of life, but a diversified portfolio will reduce a trader’s exposure to any one particular asset. But beyond risk mitigation, diversity is important for things such as producing a smoother equity curve. Let’s say you’ve decided to trade a dozen different cryptocurrencies, but they’re producing the same signals. In this case, diversity is a moot point, since you’d be better off just trading one coin. The goal is to aim for sufficient diversification of signals in order to justify multiple coins and thereby position your portfolio for future returns.
 
