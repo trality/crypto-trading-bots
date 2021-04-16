@@ -6,9 +6,7 @@ But we’re changing that.
 
 At Trality, we are bridging the gap between professional and private trading by making it possible for everyone to access the technology that powers automated trading bots, helping you to make smarter, unbiased and fully automatic trades.
 
-```html
 <h2>Creating the best crypto trading bots with Trality</h2>
-```
 
 Let's take a closer look at Trality’s revolutionary bot creation tools and find out how easy it is to code, backtest and deploy your own algorithmic trading bots for live-trading on your favourite crypto exchanges.
 
