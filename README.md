@@ -34,7 +34,7 @@ And since it’s front-end based, all of the algorithm creation and backtesting 
 
 **Trality Code Editor Walkthrough**
 
-[![Video tutorial: How to create a trading bot with Trality's Code Editor](https://img.youtube.com/vi/IO6lM4AxwEk/0.jpg)](https://www.youtube.com/watch?v=IO6lM4AxwEk)
+[![Video tutorial: How to create a trading bot with Trality's Code Editor](https://www.trality.com/blog/content/images/2021/04/Trality_CE-walkthrough-video-thumbnail-1.jpg)](https://www.youtube.com/watch?v=IO6lM4AxwEk)
 
 Try the Code Editor for free » [**Register Account**](https://auth.trality.com/#/signup)
 
