@@ -18,7 +18,7 @@ Trality’s Rule Builder is a simple yet incredibly powerful tool that lets you 
 
 **Trality Rule Builder Walkthrough**
 
-[![Video tutorial: How to create a trading bot with Trality's Rule Builder](https://img.youtube.com/vi/ugtCnc-wW7/0.jpg)](https://www.youtube.com/watch?v=ugtCnc-wW7s)
+[![Video tutorial: How to create a trading bot with Trality's Rule Builder](https://img.youtube.com/vi/ugtCnc-wW7s/0.jpg)](https://www.youtube.com/watch?v=ugtCnc-wW7s)
 
 Try the Rule Builder for free » [**Register Account**](https://auth.trality.com/#/signup)
 
