@@ -22,7 +22,7 @@ Trality’s Rule Builder is a simple yet incredibly powerful tool that lets you 
 
 Try the Rule Builder for free » [**Register Account**](https://auth.trality.com/#/signup)
 
-<br><br>
+<br>
 
 - **The Code Editor** 🐍
 
@@ -38,7 +38,7 @@ And since it’s front-end based, all of the algorithm creation and backtesting 
 
 Try the Code Editor for free » [**Register Account**](https://auth.trality.com/#/signup)
 
-<br><br>
+<br>
 
 - **Backtesting and Live-trading** 🚀
 
