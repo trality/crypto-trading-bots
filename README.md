@@ -1,4 +1,4 @@
-**Welcome to** [**Trality**](https://www.trality.com)**!**
+**Welcome to Trality!**
 
 From choosing the right tools to finding a profitable trading strategy, the journey to becoming a successful trader is far from easy.
 
@@ -20,7 +20,7 @@ Trality’s Rule Builder is a simple yet incredibly powerful tool that lets you 
 
 [![Video tutorial: How to create a trading bot with Trality's Rule Builder](https://www.trality.com/blog/content/images/2021/06/Trality-RB-banner-for-Github.png)](https://www.youtube.com/watch?v=ugtCnc-wW7s)
 
-Try the Rule Builder for free » [**Register Account**](https://auth.trality.com/#/signup)
+Try the Rule Builder for free » [**Register Account**](https://www.trality.com/)
 
 <br>
 
@@ -34,9 +34,9 @@ And since it’s front-end based, all of the algorithm creation and backtesting 
 
 **Trality Code Editor Walkthrough**
 
-[![Video tutorial: How to create a trading bot with Trality's Code Editor](https://img.youtube.com/vi/IO6lM4AxwEk/0.jpg)](https://www.youtube.com/watch?v=IO6lM4AxwEk)
+[![Video tutorial: How to create a trading bot with Trality's Code Editor](https://www.trality.com/blog/content/images/2021/06/Trality-CE-banner-for-Github.png)](https://www.youtube.com/watch?v=IO6lM4AxwEk)
 
-Try the Code Editor for free » [**Register Account**](https://auth.trality.com/#/signup)
+Try the Code Editor for free » [**Register Account**](https://www.trality.com/)
 
 <br>
 
@@ -97,4 +97,4 @@ At Trality, we are committed to the ideal that every single trader should benefi
 
 Whether you’re ready to take the plunge or still on the fence, don’t be a stranger. We encourage you to explore the amazing tools on our website for free and see for yourself how easy it is to create your own trading bots.
 
-Try our state-of-the-art tools for free » [**Register Account**](https://auth.trality.com/#/signup)
+Try our state-of-the-art tools for free » [**Register Account**](https://www.trality.com/)
