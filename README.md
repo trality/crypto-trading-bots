@@ -1,8 +1,10 @@
 # Welcome to Trality!
 
-We bring the power and flexibility of algorithmic investing to anyone looking for innovative ways to invest their hard-earned money. Whether you’re an advanced investor or beginner, everyone can have AI-based bots, otherwise reserved for the pros, automatically manage their portfolio.
+Founded in 2019 by Moritz Putzhammer and Christopher Helf, Trality exists to ease most retail investors’ pain of not knowing how to invest their hard-earned money and not having access to a personal wealth manager.
 
-At Trality, we are rewriting the rules by enabling everyone to automate their own investment strategies or rent strategies created by the world’s most experienced quantitative analysts. We see a future in which everything is automated by bots. And when it comes to automated investing, there will be only one place to go — Trality.
+Trality provides these investors with fully automated portfolios through its innovative Marketplace. By combining the experience of the world’s best Python programmers with the latest advances in machine learning, Trality enables every investor to maximize profits while minimizing risk—all through the power of automation. Investors can now rent cutting-edge wealth management bots without having to create complicated automations themselves, while top-performing bot creators can earn passive income by having their bots listed on Trality’s Marketplace.
+
+With this approach, Trality is rewriting the rules of the game by scaling the previously unscalable concept of personalized wealth management beyond high-net-worth individuals towards the broad retail market.
 
 # The Best Crypto Trading Bots at Your Fingertips
 
